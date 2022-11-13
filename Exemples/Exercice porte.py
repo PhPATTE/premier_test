@@ -50,5 +50,3 @@ if choix_2 == porte_gagnante:
 else:
     print("vous avez perdu, la porte gagnante était la", porte_gagnante)
 
-# essai modif git
-# 2eme commit
