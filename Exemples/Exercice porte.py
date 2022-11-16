@@ -4,6 +4,7 @@ Created on Thu Sep  8 17:54:44 2022
 
 @author: toufl
 00002 master
+branche 1 master
 """
 
 import random
